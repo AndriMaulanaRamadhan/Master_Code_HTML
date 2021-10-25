@@ -1,0 +1,21 @@
+HTML : Hypertext Markup Language
+
+HTML diciptakan pertama kali oleh Tim Berners-Lee
+dia juga menciptakan : HTTP, WWW, Web Browser, Web Server, Web Page
+dia juga menjadi direktur di W3C "World Wide Web Consortium"
+
+Kegiatan yang dilakukan W3C adalah untuk mengembangkan protokol dan panduan yang akan memastikan perkembangan dalam jangka panjang
+Lokasinya : tidak ada markas utama hanya ada gabungan dari beberapa institusi yaitu ada di amerika (MIT), prancis (ERCIM), japan (Keio University), dan china (Beihang University)
+
+aturan W3C diimplementasikan di web browser tapi karna perusahaan web browser berbeda beda maka aturannya juga berbeda walaupun perbedaan tidak terlalu jauh
+
+Untuk Info Lebih Jelasnya bisa search di websitenya langsung
+
+Apa itu HTML?
+adalah bahasa yang digunakan untuk membuat halaman web
+
+Apa itu CSS?
+adalah salah satu styling language, bagian dari markup language yang dapat "mewarnai" atau mendesain suatu halaman website
+
+Apa itu Javascript?
+adalah bahasa pemrograman tingkat tinggi dan dinamis
