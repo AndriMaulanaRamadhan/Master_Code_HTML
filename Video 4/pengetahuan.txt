@@ -1,0 +1,47 @@
+tag itu adalah kode dalam html yang dimana diawali dengan "<" lalu nama tagnya apa dan diakhiri ">"
+
+tag ada yang berpasangan seperti tag html, body, head.
+tag pasangan memiliki tag pembuka dan penutup
+tag pembuka itu sepeti <html>
+tag penutup seperti </html> (tag penutup biasanya hanya ditambahkan "/")
+
+tag yang ada didalam head :
+tag title : untuk membuat judul
+tag style (css) : untuk membuat kode css
+tag script : untuk membuat kode javascript
+tag meta: untuk membuat metadata (penting untuk mendeskripsikan website kita)
+
+tag yang ada di bagian meta :
+tag <meta charset> untuk encoding
+tag <meta name="description" content="Kuliah Pemrograman Web"> untuk deskripsi website
+tag <meta name="keywords" content="HTML,CSS,Javascript"> untuk membuat keywords
+tag <meta name="author" content="Andri Maulana Ramadhan"> untuk memberitahukan siapa authornya
+tag meta ini penting untuk search engine agar website kita mudah untuk dicari
+
+tag yang ada didalam body:
+tag heading : untuk membuat heading, dimulai dari <h1> yang paling besar sampai ke <h6> ke yang paling kecil
+tag p : untuk membuat paragraf
+tag pendukung teks : untuk merubah gaya pada huruf seperti <br> untuk garis baru, <hr> untuk menambahkan garis horizontal, lalu ada <em> untuk membuat garis miring dan strong untuk membuat huruf cetak tebal
+tag img : untuk menyimpan gambar
+tag a : untuk meyimpan hyperlink (biasa disebut tag anchor)
+tag list : seperti <ul> untuk membuat daftar acak, <ol> untuk membuat daftar terurut, <li> untuk membuat list item, <dl> untuk membuat definisi list dan ada tag dt dan dd yang fungsinya bisa cari diinternet
+tag tabel : untuk membuat tabel ada bermacam tag seperti tag <table>, <thead>, <tbody>
+tag form : untuk membuat form ada bermacam tag seperti <form>, <input>, <select>, <button>
+tag script : untuk membuat kode javascript
+tag object : untuk membuat object seperti object multimedia
+tag grouping : tag untuk melakukan grup pada tag yang ada didalam html, tag grouping itu seperti : <div> dan <span>
+tag komentar : untuk membuat komentar, tag komentar itu seperti <!-- ini adalah komentar -->
+
+struktur tag : <namatag attribut="nilai"> contoh : <body bgcolor="lightblue">
+struktur tag bisa memiliki lebih dari 1 atribut, contoh : <body bgcolor="lightblue" id="sway" class="yura">
+
+atribut global :
+accesskey : elemen ini bisa menggunakan keyboard atau shortcut
+class
+id
+dir : untuk menentukan arah tulisannya (direction)
+lang : untuk language atau bahasa
+style
+tabindex : untuk menentukan urutan kalau kita membuat form urutan pada saat kita pencet tab focus cursornya pindah kemana
+title
+untuk liat atribut lengkap di w3school
