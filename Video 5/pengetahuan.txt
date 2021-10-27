@@ -1,0 +1,10 @@
+membahas pembuatan paragraf
+tag p : untuk membuat paragraf
+tag br :untuk membuat baris baru
+tag hr : untuk membuat garis horizontal
+tag b : untuk menebalkan huruf (bold)
+tag i : untuk memiringkan huruf (italic)
+tag u : untuk membuat garis bawah pada huruf (underline)
+tag em : untuk membuat penekanan yang kuat pada huruf
+tag strong : untuk membuat penekanan pada huruf lebih kuat lagi
+tag komentar : untuk membuat komentar <!-- -->
