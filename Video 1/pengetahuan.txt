@@ -1,0 +1,8 @@
+membahas sejarah html
+penemu html : Tim Berners-Lee
+dia juga menciptakan : HTTP, HTML, WWW, Web Browser, Web Server, Web Page
+dia direktur W3C
+
+Fungsi HTML. Dikutip dari Computerhope, HTML digunakan untuk membuat dokumen elektronik (disebut halaman) yang ditampilkan di World Wide Web (www)
+CSS adalah kepanjangaan dari Cascading Style Sheets yang berguna untuk menyederhanakan proses pembuatan website dengan mengatur elemen yang tertulis di bahasa markup. CSS dipakai untuk mendesain halaman depan atau tampilan website (front end)
+fungsi javascript : JavaScript adalah bahasa pemrograman yang populer di internet. Fungsi JavaScript pada HTML membuat halaman web lebih interaktif.
