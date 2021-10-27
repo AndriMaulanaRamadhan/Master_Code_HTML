@@ -1,0 +1,9 @@
+ekstensi file html harus diakhiri ".html" contoh latihan1.html
+jika teks di dalam file html tidak ada tag html maka disebut plain text atau teks biasa
+
+tag !doctype html berfungsi untuk kita memberitahukan kepada browser bahwa kita mau membuat html versi 5 atau versi terbaru
+tag html berfungsi sebagai tag pembungkus dasar atau tag wajib
+di dalam tag html ada 2 tag yaitu : tag head dan tag body
+
+tag p berfungsi untuk membuat paragraf
+tag title untuk memberikan judul pada halaman di bagian tab
