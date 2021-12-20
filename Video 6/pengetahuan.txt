@@ -1,0 +1,6 @@
+Heading
+
+Heading dari h1 yang paling besar hingga yang paling terkecil h6
+biasanya judul halaman utama dalam artikel memakai h1 sedangkan sub judul menggunakan h2
+
+info : untuk melihat seperti apa tata letak heading pada sebuah artikel bisa menggunakan klik kanan lalu inspect elemen pada halaman lalu klik kaca pembesar dan arahkan pada elemen yang ingin dilihat
