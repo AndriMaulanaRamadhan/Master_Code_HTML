@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Membuat Form</title>
+</head>
+<body>
+  <form>
+    <table border="3" cellspacing="0" cellpadding="3">
+      <tr>
+        <td><label for="Username">Username</label></td>
+        <td><input type="text" id="Username"></td>
+      </tr>
+      <tr>
+        <td><label for="Password">Password</label></td>
+        <td><input type="password" id="Password"></td>
+      </tr>
+      <tr>
+        <td colspan="2">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" id="Pria" name="jeniskelamin"><label for="Pria">Pria</label>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<input type="radio" id="Wanita" name="jeniskelamin"><label for="Wanita">Wanita</label></td>
+      </tr>
+      <tr>
+        <td colspan="2">&nbsp;&nbsp;<input type="checkbox" id="Tenis"><label for="Tenis">Tenis</label><input type="checkbox" id="Basket"><label for="Basket">Basket</label><input type="checkbox" id="Rugby"><label for="Rugby">Rugby</label><input type="checkbox" id="Voli"><label for="Voli">Voli</label></td>
+      </tr>
+      <tr>
+        <td><label for="Home">Tempat Tinggal :</label></td>
+        <td><select name="Home" id="Home">
+          <option value="Bandung">Bandung</option>
+          <option value="Karawang">Karawang</option>
+          <option value="Jakarta">Jakarta</option>
+        </select></td>
+      </tr>
+      <tr>
+        <td><label for="Komentar">Komentar :</label></td>
+        <td><textarea name="Komentar" id="Komentar" cols="30" rows="10"></textarea></td>
+      </tr>
+      <tr>
+        <td colspan="2"><input type="submit" value="Update"></td>
+      </tr>
+    </table>
+  </form>
+</body>
+</html>
